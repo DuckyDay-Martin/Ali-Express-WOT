@@ -1,0 +1,104 @@
+.main-buttons
+{
+    height: 66px;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 700;
+    color: #aaaaab;
+    line-height: 10px;
+    padding: 0px;
+    
+}
+.main-buttons:hover
+{
+    background-color: yellow;
+}
+
+.main-navBar-container
+{
+    text-align: center;
+    
+}
+
+.section-container
+{
+    background-color: black;
+    
+    border: 2px solid;
+}
+
+
+ul
+{
+    padding: 15px;
+}
+
+.WOT-PIC
+{
+    border: 5px solid #ddd;
+    padding: 10px;
+    width: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+.img-main-section
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.left-navBar-buttons:hover
+{
+    background-color: black;
+    padding: 1px;
+    line-height: 10px;
+}
+
+
+.left-navBar-section
+{
+background-color: grey;
+
+border: 2px black;
+}
+
+
+.left-navBar-buttons
+{
+    height: 66px;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 700;
+    color: #aaaaab;
+    line-height: 10px;
+    padding: 0px;
+    justify-content: space-between;
+}
+
+li
+{
+    padding: 25px 5px;   
+}
+
+.side-acc-info
+{
+    padding-top: 15px;
+    width: fit-content;
+
+}
+
+.side-section-info
+{
+    padding: 5px;
+    border: 2px solid;
+}
+
+.WOT-prof-pic
+{
+    padding-left: 9px;
+    padding-top: 5px;
+}
